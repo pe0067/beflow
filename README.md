@@ -1,6 +1,5 @@
 <!-- @ver:1.1.15.21 -->
-# beFlow
-## version 1.1.15.21
+# beFlow v. 1.1.15.21
 
 <!-- @changelogstart -->
 
