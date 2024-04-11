@@ -48,7 +48,7 @@ zrealizowane zmiany
     c. Zoptymalizowano kolorowanie elementów 
     d. Zoptymalizowano działanie funkcji tworzenia i zarządzania filtrami.  
 
-![image](https://github.com/pe0067/beflow/assets/86341947/8340a9ec-56ab-4c76-aa16-699eef0268ae)
+    ![image](https://github.com/pe0067/beflow/assets/86341947/8340a9ec-56ab-4c76-aa16-699eef0268ae)
 
     e. Znika combobox z ribbona – ze względu na błędy w działaniu i brak możliwości naprawy. 
 
