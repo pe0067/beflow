@@ -3,8 +3,49 @@
 
 <!-- @changelogstart -->
 
-- [ ] Task 1: test 1
-- [x] Task 2: test 2
-- [ ] Task 3: test 3
+## Release z 12.04.2024
+
+zrealizowane zmiany 
+
+- [x] Zmiana modelu komunikacji między BIM VISION – EXCEL – problemy z komunikacją
+
+Wykorzystujemy IFCOpenShell do pobrania danych z modelu BIM, co znacznie przyspiesza proces przetwarzania danych. Aplikacja przelicza HASH pliku Ifc i porównuje go przy każdym otwarciu z wygenerowaną bazą. Oznacza to tyle że po modyfikacji pliku Ifc lub jego podmienieniu program ponownie stworzy bazę danych.
+
+Baza danych zapisywana jest w pliku .json w katalogu głównym projektu. 
+![image](https://github.com/pe0067/beflow/assets/86341947/9f01bab1-f2ea-49c7-a8bd-1746c6118696)
+
+Utworzenie bazy danych ma miejsce przy pierwszym uruchomieniu projektu i po każdej aktualizacji modelu IFC. Proces trwa kilka minut i zależy od wielkości pliku IFC.  
+
+- [x] Zmiany w Highlight Values - obsługa błędnych komórek
+- [x] Zmiana modelu zapisu tabel
+- [ ] 
+Stawiamy na optymalizację działania, dlatego długo szukaliśmy rozwiązania które będzie dobrym kompromisem między wydajnością i funkcjonalnością. Nowe BeFlow oparte jest o rozwiązanie hybrydowe. Łączymy szybkość działania PowerQuery i zwykłych tabel Excel. Cały proces działa niezauważalnie dla użytkownika i nie wymaga większej wiedzy niż poprzednio. 
+
+Zastosowanie Query wyniosło część zajmującą zarządzaniem modelem do baz danych CSV na zewnątrz. Pozwala to na błyskawiczną synchronizację z modelem.  
+
+a. Użytkownik zaakceptuje uruchamianie makr w pliku excel.
+![image](https://github.com/pe0067/beflow/assets/86341947/6590a16c-3c51-48a8-a9cb-9044d128048a)
+b. Dodawanie wierszy tylko z poziomu BIM VISION 
+![image](https://github.com/pe0067/beflow/assets/86341947/854b715b-f1a0-4485-8fbe-36c0b4fcf56f)
+c. Usuwanie wierszy i kolumn oraz zmiana nazwy za pomocą funkcji do tego przeznaczonych 
+![image](https://github.com/pe0067/beflow/assets/86341947/1eac2503-9145-4e79-9a8b-27c3541ae83b)
+d. Tworzenie i edycja tabeli za pomocą kreatora.  
+![image](https://github.com/pe0067/beflow/assets/86341947/c7792f8f-6c16-48c1-982d-6f2869b27ae9)
+e. Zmiana nazwy kolumn z parametrami. Nowy zapis to #PropSet.ParamName, należy zwrócić uwagę na znaki ‘#’ i ‘.’. 
+
+- [x] Optymalizacja funkcji
+
+a. Zoptymalizowano funkcje dodawania elementów 
+b. Zoptymalizowano synchronizację danych 
+c. Zoptymalizowano kolorowanie elementów 
+d. Zoptymalizowano działanie funkcji tworzenia i zarządzania filtrami.  
+![Uploading image.png…]()
+e. Znika combobox z ribbona – ze względu na błędy w działaniu i brak możliwości naprawy. 
+
+- [x] Naprawa błedów 
+
+a. Naprawa błędów wynikających z wad poprzedniego połączenia. 
+b. Naprawa błedów synchronizacji, dodawania wierszy, kolorowania, filtrowania. 
+c. HighlightValue – naprawa błędów wynikających z niepoprawnego interpretowania kolorów.        
 
 <!-- @changelogend -->
