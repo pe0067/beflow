@@ -70,4 +70,6 @@ zrealizowane zmiany
 
     ![image](https://github.com/pe0067/beflow/assets/86341947/de078c90-bb50-476f-ac9a-9a5a74f72599)
 
+    Dodaliśmy ekran z changelogiem, który wyświetli ten dokument!
+
 <!-- @changelogend -->
