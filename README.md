@@ -1,9 +1,12 @@
-<!-- @ver:1.1.15.22 -->
-# beFlow v. 1.1.15.22
+<!-- @ver:1.1.15.24 -->
+# beFlow v. 1.1.15.24
 
 <!-- @changelogstart -->
+## Release 1.1.15.24 z 17.04.2024
 
-## Release z 12.04.2024
+## Release 1.1.15.23 z 16.04.2024
+
+## Release 1.1.15.22 z 12.04.2024
 
 zrealizowane zmiany 
 
