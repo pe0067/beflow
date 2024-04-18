@@ -3,9 +3,11 @@
 
 <!-- @changelogstart -->
 ## Release 1.1.15.24 z 17.04.2024
-
+- [x] Naprawiono błędy związane z wyłaczeniem się excela
+- [x] Przeniesiono obsługę excela do COM po stronie Excel z Bim Vision - stabilniejsze działanie
+- [x] Zaktualizowano kod po stronie komunikacji
 ## Release 1.1.15.23 z 16.04.2024
-
+- [x] Błedy związan
 ## Release 1.1.15.22 z 12.04.2024
 
 zrealizowane zmiany 
