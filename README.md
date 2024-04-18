@@ -7,7 +7,7 @@
 - [x] Przeniesiono obsługę excela do COM po stronie Excel z Bim Vision - stabilniejsze działanie
 - [x] Zaktualizowano kod po stronie komunikacji
 ## Release 1.1.15.23 z 16.04.2024
-- [x] Błedy związan
+- [x] Błedy kodowania znaków
 ## Release 1.1.15.22 z 12.04.2024
 
 zrealizowane zmiany 
