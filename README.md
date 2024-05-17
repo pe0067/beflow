@@ -13,7 +13,7 @@
 - [x] Naprawiono bieżące błędy zgłoszone przez użytkowników zwiazane ze stabilnością
 - [x] Dodano pełną obsługe API
 
-## Release 1.1.15.26 z 30.04.2024 - releasebył udostepniany wybranym użytkownikom
+## Release 1.1.15.26 z 30.04.2024 - release był udostepniany wybranym użytkownikom
 - [x] Naprawiono bieżące błędy zgłoszone przez użytkowników zwiazane ze stabilnością
 - [x] Zmieniono wersję BimVision na 2.28.0
       
