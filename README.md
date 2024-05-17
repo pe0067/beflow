@@ -1,7 +1,25 @@
 <!-- @ver:1.1.15.24 -->
-# beFlow v. 1.1.15.24
+# beFlow v. 1.1.15.29
 
 <!-- @changelogstart -->
+## Release 1.1.15.29 z 17.05.2024
+- [x] Dodano obsługę typów danych
+- [x] Dodano ostrzeżenie o duplikowaniu projektu w folderze
+      
+## Release 1.1.15.28 z 10.05.2024
+- [x] Usunięto problemy z kolorowaniem (komórka nazwa)
+
+## Release 1.1.15.27 z 06.05.2024
+- [x] Naprawiono bieżące błędy zgłoszone przez użytkowników zwiazane ze stabilnością
+- [x] Dodano pełną obsługe API
+
+## Release 1.1.15.26 z 30.04.2024
+- [x] Naprawiono bieżące błędy zgłoszone przez użytkowników zwiazane ze stabilnością
+- [x] Zmieniono wersję BimVision na 2.28.0
+      
+## Release 1.1.15.25 z 25.04.2024
+- [x] Naprawiono bieżące błędy użytkowników
+
 ## Release 1.1.15.24 z 17.04.2024
 - [x] Naprawiono błędy związane z wyłaczeniem się excela
 - [x] Przeniesiono obsługę excela do COM po stronie Excel z Bim Vision - stabilniejsze działanie
