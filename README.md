@@ -10,15 +10,15 @@
 - [x] Usunięto problemy z kolorowaniem (komórka nazwa)
 
 ## Release 1.1.15.27 z 06.05.2024 - release nie był udostępniany publicznie
-- [x] Naprawiono bieżące błędy zgłoszone przez użytkowników zwiazane ze stabilnością
-- [x] Dodano pełną obsługe API
+- [x] Naprawiono bieżące błędy zgłoszone przez użytkowników związane ze stabilnością
+- [x] Dodano pełną obsługę API w wersji 5.43
 
 ## Release 1.1.15.26 z 30.04.2024 - release był udostępniany wybranym użytkownikom
-- [x] Naprawiono bieżące błędy zgłoszone przez użytkowników zwiazane ze stabilnością
+- [x] Naprawiono bieżące błędy zgłoszone przez użytkowników związane ze stabilnością
 - [x] Zmieniono wersję BimVision na 2.28.0
       
 ## Release 1.1.15.25 z 25.04.2024  - release nie był udostępniany publicznie
-- [x] Naprawiono bieżące błędy zgłoszone przez użytkowników zwiazane tworzeniem projektu
+- [x] Naprawiono bieżące błędy zgłoszone przez użytkowników związane tworzeniem projektu
 
 ## Release 1.1.15.24 z 17.04.2024
 - [x] Naprawiono błędy związane z wyłaczeniem się excela
