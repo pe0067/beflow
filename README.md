@@ -1,7 +1,11 @@
-<!-- @ver:1.1.15.24 -->
-# beFlow v. 1.1.15.29
+<!-- @ver:1.1.15.30 -->
+# beFlow v. 1.1.15.30
 
 <!-- @changelogstart -->
+## Release 1.1.15.30 z 23.05.2024
+- [x] Zmieniono podjeście do zarządzania backupami - użytkownik wybiera będzie backupował. Teraz backupy tworzą się w postaci plików zip
+- [x] Obsługa kilku projektów w jednym folderze
+
 ## Release 1.1.15.29 z 17.05.2024
 - [x] Dodano obsługę typów danych
 - [x] Dodano ostrzeżenie o duplikowaniu projektu w folderze
