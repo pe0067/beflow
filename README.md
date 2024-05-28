@@ -2,6 +2,10 @@
 # beFlow v. 1.1.15.31
 
 <!-- @changelogstart -->
+## Release 1.1.15.32 z 28.05.2024
+- [x] Obsługa błedów odczytu uszkodzonych modeli
+- [x] Odczyt IFCEntity
+
 ## Release 1.1.15.31 z 28.05.2024
 - [x] Usunięcie poważnego błędu z synchronizacją
 - [x] Naprawa komunikatu po synchronizacji
