@@ -1,7 +1,10 @@
-<!-- @ver:1.1.15.32 -->
-# beFlow v. 1.1.15.32
+<!-- @ver:1.1.16.0 -->
+# beFlow v. 1.1.16.0
 
 <!-- @changelogstart -->
+## Release 1.1.16.0 z 31.05.2024
+- [x] Dodano obsługę aktualizowania prametrów modelu IFC.
+      
 ## Release 1.1.15.32 z 28.05.2024
 - [x] Obsługa błedów odczytu uszkodzonych modeli
 - [x] Odczyt IFCEntity
