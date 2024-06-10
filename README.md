@@ -1,8 +1,8 @@
 <!-- @ver:1.1.16.0 -->
-# beFlow v. 1.1.16.2
+# beFlow v. 1.1.16.3
 
 <!-- @changelogstart -->
-## Release 1.1.16.1-2 z 05.06.2024
+## Release 1.1.16.1-3 z 05.06.2024
 - [x] Serwis funkcji dodawania parametrów
 
 ## Release 1.1.16.0 z 31.05.2024
